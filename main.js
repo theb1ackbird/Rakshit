@@ -4,13 +4,7 @@ import firebase from 'firebase/app';
 import 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBD8M3FYrVqnt0X-qWaNk-2_Ip09EPA6Jw",
-  authDomain: "rakshit-f4cc1.firebaseapp.com",
-  projectId: "rakshit-f4cc1",
-  storageBucket: "rakshit-f4cc1.appspot.com",
-  messagingSenderId: "105427290477",
-  appId: "1:105427290477:web:4d91fa0c2a8fc6de86b264",
-  measurementId: "G-XBV7MXVY1T"
+
 };
 
 if (!firebase.apps.length) {
